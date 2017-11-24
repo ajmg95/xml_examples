@@ -1,4 +1,4 @@
-# XML_examples
+# XML examples
 
 Examples of XML done in LMSGI class. The extension of a XML file is `.xml.`
 
