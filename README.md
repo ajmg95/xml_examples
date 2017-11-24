@@ -1,4 +1,4 @@
-# xml_examples
+# XML_examples
 
 Examples of XML done in LMSGI class.
 
